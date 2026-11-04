@@ -28,7 +28,7 @@ This mirrors the Lit-Flow-Flash read→write→evaluate pattern, adapted for bio
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/acro-spin.git
+git clone https://github.com/victoriana/acro-spin.git
 cd acro-spin/sim && python mock_imu.py   # verify mock data stream
 cd ../agent && pip install -r requirements.txt && python graph.py  # verify graph loads
 ```
