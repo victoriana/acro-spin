@@ -37,8 +37,6 @@ cd ../agent && pip install -r requirements.txt && python graph.py  # verify grap
 
 ros2-rust-workspace — Core Rust IMU processing pipeline this app consumes
 
-lit-flow-flash — Architectural predecessor; same orchestrator/evaluator pattern applied to literary practice
-
 ## License
 MIT
 
