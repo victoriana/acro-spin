@@ -4,7 +4,7 @@ Agentic coaching application for acrobatic movement analysis. Built on a high-pe
 
 ## Status
 
-🚧 **Pre-alpha** — Agentic architecture scaffold in progress. Kinematic evaluators and simulated IMU data generator are the current focus. Hardware validation pending ESP32/BNO085 integration.
+🚧 **Pre-alpha** — Agentic architecture scaffold in progress. Kinematic evaluators and simulated IMU data generator are the current focus. Hardware validation pending ESP32/BNO055 integration.
 
 ## Architecture
 
