@@ -86,11 +86,4 @@ cd ../agent && pip install -r requirements.txt && python graph.py  # verify grap
 ## Related Projects
 
 - **[ros2-rust-workspace](https://github.com/victoriana/ros2-rust-workspace)** — Core Rust IMU processing pipeline this app consumes. Contains reusable primitives (`esp32-bridge`, `imu-fusion`, `time-sync`) suitable for upstream contribution.
-- 
-## License
 
-MIT
-
-## License
-
-MIT
