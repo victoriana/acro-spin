@@ -1,6 +1,6 @@
 # Acro Spin  
 
-See also: [project plan][https://github.com/victoriana/technical-ledger/blob/main/ACRO-SPIN-PROJECT-PLAN.md]
+See also: [https://github.com/victoriana/technical-ledger/blob/main/ACRO-SPIN-PROJECT-PLAN.md]
 
 Agentic coaching application for acrobatic movement analysis. Designed to run on a Rust/ROS 2 sensor pipeline, with a LangGraph agent that decides each athlete's next drill from biomechanical scores and longitudinal skill history.
 
